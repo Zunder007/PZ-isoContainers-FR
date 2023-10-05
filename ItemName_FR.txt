@@ -1,0 +1,6 @@
+ItemName_FR = {
+	ItemName_Base.ISOHalfStorage2 = "Malle ISO",
+	ItemName_Base.IsoContainerDoubleTrunkDoor2 = "Porte double de conteneur ISO",
+	ItemName_Base.IsoContainerTankerTrunkDoor2 = "Porte de réservoir ISO",
+	ItemName_Base.IsoContainerTrunkDoor2 = "Porte de conteneur ISO",
+}
