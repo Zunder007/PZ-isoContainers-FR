@@ -5,4 +5,5 @@ IG_UI_FR = {
 	IGUI_VehicleNameisoContainer5 = "Conteneur ISO détruit",
 
 	IGUI_VehiclePartTrunk2 = "Coffre",
+	IGUI_CraftCategory_Containers = "Conteneurs",
 }
